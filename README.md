@@ -1,6 +1,6 @@
 # Consumer-behaviour-analysis
 ## Contributor:
-**Nguyen** **Phuong** **Thuy**:
+**Nguyen** **Phuong** **Thuy**
 
 ---
 
